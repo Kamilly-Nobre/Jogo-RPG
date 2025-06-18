@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\source\\repos\\Jogo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\emojis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\emojis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\textos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\textos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|c:\\users\\kamil\\source\\repos\\jogo\\jogo\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB08028-55AF-49FF-813A-F12CFAE3824A}|Jogo\\Jogo.csproj|solutionrelative:jogo\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,16 +54,88 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emojis.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Emojis.cs",
+              "RelativeDocumentMoniker": "Jogo\\Emojis.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Emojis.cs",
+              "RelativeToolTip": "Jogo\\Emojis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:22:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Jogo\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\AudioManager.cs",
+              "RelativeToolTip": "Jogo\\AudioManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:26:33.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Textos.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Textos.cs",
+              "RelativeDocumentMoniker": "Jogo\\Textos.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Textos.cs",
+              "RelativeToolTip": "Jogo\\Textos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:55:41.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Personagem.cs",
+              "RelativeDocumentMoniker": "Jogo\\Personagem.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Personagem.cs",
+              "RelativeToolTip": "Jogo\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:55:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Inimigo.cs",
+              "RelativeDocumentMoniker": "Jogo\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Inimigo.cs",
+              "RelativeToolTip": "Jogo\\Inimigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:54:33.954Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Game.cs",
+              "RelativeDocumentMoniker": "Jogo\\Game.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Game.cs",
+              "RelativeToolTip": "Jogo\\Game.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:54:04.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Program.cs",
               "RelativeDocumentMoniker": "Jogo\\Program.cs",
               "ToolTip": "C:\\Users\\kamil\\source\\repos\\Jogo\\Jogo\\Program.cs",
               "RelativeToolTip": "Jogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T14:48:39.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T14:48:39.629Z"
             }
           ]
         }

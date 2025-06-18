@@ -12,3 +12,13 @@ C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\refint\Jogo.dll
 C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\Jogo.pdb
 C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\Jogo.genruntimeconfig.cache
 C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\ref\Jogo.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\Jogo.sourcelink.json
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\Jogo.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Jogo\Jogo\obj\Debug\net8.0\Jogo.csproj.Up2Date
+C:\Users\kamil\source\repos\Jogo\Jogo\bin\Debug\net8.0\battle-of-the-dragons-8037.mp3
