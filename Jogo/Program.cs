@@ -3,21 +3,20 @@ using System.Collections.Generic;
 
 namespace Jogo
 {
-    // Classe principal que inicia o jogo
     class Program
     {
         static void Main(string[] args)
         {
-            // Habilita suporte a Unicode/emojis
+            //EMOJIS
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            // Inicia a música de fundo
+            //MUSICA
             AudioManager.TocarMusica("battle-of-the-dragons-8037.mp3");
 
-            // Inicia o menu principal do jogo
+            //MENU PRINCIPAL
             Game.MenuPrincipal();
 
-            // Para a música ao final do jogo
+            //PARA A MUSICA NO FIM DO JOGO
             AudioManager.PararMusica();
         }
     }

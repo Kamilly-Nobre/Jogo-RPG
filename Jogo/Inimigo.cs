@@ -6,19 +6,26 @@ using System.Threading.Tasks;
 
 namespace Jogo
 {
-    // Representa um inimigo no jogo
     class Inimigo
     {
-        public string Nome;
-        public int Vida;
-        public int Dano;
+        public string Nome { get; set; }
+        public int Vida { get; set; }
+        public int DanoMin { get; set; }
+        public int DanoMax { get; set; }
 
-        // Construtor do inimigo
-        public Inimigo(string nome, int vida, int dano)
+        private static readonly Random rng = new Random();
+
+        public Inimigo(string nome, int vida, int danoMin, int danoMax)
         {
             Nome = nome;
             Vida = vida;
-            Dano = dano;
+            DanoMin = danoMin;
+            DanoMax = danoMax;
+        }
+
+        public int GerarDano()
+        {
+            return rng.Next(DanoMin, DanoMax + 1);
         }
     }
 }

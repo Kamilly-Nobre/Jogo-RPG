@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Jogo
 {
-    // Representa um personagem do jogo (jogador ou aliados)
     class Personagem
     {
         public string Nome;
@@ -17,7 +16,6 @@ namespace Jogo
         public int Moedas;
         public int Ataque;
 
-        // Construtor que inicializa o personagem com valores padrão
         public Personagem(string nome, string arma)
         {
             Nome = nome;
@@ -25,8 +23,12 @@ namespace Jogo
             Vida = 100;
             VidasExtras = 1;
             Pocoes = 1;
-            Moedas = 10;
             Ataque = 15;
         }
+
+        public int CustoMelhoriaArma = 15;
+        public int VidaMaxima { get; set; } = 100;
+        public int FragmentosDaAlma { get; set; } = 1;
+
     }
 }
